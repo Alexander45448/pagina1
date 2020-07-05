@@ -1,0 +1,23 @@
+.jumbotron{
+    height: 100vh;
+    background-image: url(https://www.nice-images.review/wp-content/uploads/2016/11/download-cars-hd-wallpapers-pack-lexus-tuning-car-awesome-hd.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron2{
+    height: 100vh;
+    background-image: url(https://d1eip2zddc2vdv.cloudfront.net/dphotos/20728-1542922711.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron3{
+    height: 100vh;
+    background-image: url(https://i.pinimg.com/originals/aa/6d/2b/aa6d2b9f0be2506a35eaffa50941ab2b.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
